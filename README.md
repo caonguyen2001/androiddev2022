@@ -14,5 +14,5 @@ Student Info
 * ID: BI10-130
 * Group ID: 6
 
-For labwork 1 to 5, I have some missunderstand about git push, that why it's pushed in the form of files. Then I tried to fixed it that why it has a folder labwork with the commit "Test push folder". I will try my best to finish all labwork as soon as possible.
+For labwork 5, I have problem with git add. Then I tried to fixed it that why it has a folder labwork with the commit "Test push folder". I will try my best to finish all labwork as soon as possible.
 
