@@ -84,6 +84,6 @@ public class ForecastFragment extends Fragment {
         ll.addView(tuesday);
         ll.addView(rainy);
 
-        return ll;
+        return inflater.inflate(R.layout.fragment_forecast, container, false);
     }
 }
